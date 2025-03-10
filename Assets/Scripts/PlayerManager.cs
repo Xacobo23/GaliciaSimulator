@@ -238,6 +238,7 @@ public class PlayerManager : MonoBehaviour
     void OnDisable()
     {
         SaveManager.SavePlantedCells(plantedCells);
+        
     }
 
     void OnApplicationQuit()

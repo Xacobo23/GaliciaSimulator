@@ -118,6 +118,5 @@ public class PCShopInteraction : MonoBehaviour
     private void LoadNewScene()
     {
         SceneManager.LoadScene("FinalScene");
-        Debug.Log("Has alcanzado 100 monedas. Cambiando a la nueva escena.");
     }
 }
