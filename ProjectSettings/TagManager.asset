@@ -7,6 +7,18 @@ TagManager:
   - Enemy
   - Wall
   - Ground
+  - MaizInixio
+  - MaizMedio
+  - MaizFinal
+  - SellMaiz
+  - BuySeeds
+  - Exit
+  - CanvasPrincipal
+  - CanvasComputer
+  - WallFather
+  - Reset
+  - Intro
+  - Inicio
   layers:
   - Default
   - TransparentFX
@@ -17,8 +29,8 @@ TagManager:
   - Player
   - Enemies
   - Ground
-  - 
-  - 
+  - Limits
+  - Maiz
   - 
   - 
   - 
